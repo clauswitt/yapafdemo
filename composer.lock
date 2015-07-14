@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "2311469a987fead1284de656ed1de019",
+    "packages": [
+        {
+            "name": "clauswitt/yapaf",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/clauswitt/yapaf.git",
+                "reference": "0ec25f29af9c4a3e65d759c8e564031fb6c52683"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/clauswitt/yapaf/zipball/0ec25f29af9c4a3e65d759c8e564031fb6c52683",
+                "reference": "0ec25f29af9c4a3e65d759c8e564031fb6c52683",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "yapaf\\": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "WTFPL"
+            ],
+            "authors": [
+                {
+                    "name": "Claus Witt",
+                    "email": "claus@wittnezz.dk"
+                }
+            ],
+            "description": "Yet Another Php Application Framework",
+            "time": "2015-07-14 10:14:59"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "clauswitt/yapaf": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

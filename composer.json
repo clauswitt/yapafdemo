@@ -1,0 +1,12 @@
+{
+    "name": "clauswitt/yapafdemo",
+    "require": {
+        "clauswitt/yapaf": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Claus Witt",
+            "email": "claus@wittnezz.dk"
+        }
+    ]
+}
