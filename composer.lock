@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/clauswitt/yapaf.git",
-                "reference": "a1051fc84eac7c598810bb41a921eea4acf356b2"
+                "reference": "25b037255134ed8702c7d80ca0cd2ce54b243b98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/clauswitt/yapaf/zipball/a1051fc84eac7c598810bb41a921eea4acf356b2",
-                "reference": "a1051fc84eac7c598810bb41a921eea4acf356b2",
+                "url": "https://api.github.com/repos/clauswitt/yapaf/zipball/25b037255134ed8702c7d80ca0cd2ce54b243b98",
+                "reference": "25b037255134ed8702c7d80ca0cd2ce54b243b98",
                 "shasum": ""
             },
             "require-dev": {
@@ -40,7 +40,7 @@
                 }
             ],
             "description": "Yet Another Php Application Framework",
-            "time": "2015-07-14 14:22:18"
+            "time": "2015-07-14 14:31:21"
         }
     ],
     "packages-dev": [],
